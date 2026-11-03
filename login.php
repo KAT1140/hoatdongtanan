@@ -551,12 +551,12 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             <div class="auth-logo">
 
                 <img
-                    src="images/logodoanthanhnien.jpg"
+                    src="images/logodoanthanhnien.png"
                     alt="Logo Đoàn Thanh niên"
                 >
 
                 <img
-                    src="images/logothanhnien.jpg"
+                    src="images/logothanhnien.png"
                     alt="Logo Thanh niên"
                 >
             </div>

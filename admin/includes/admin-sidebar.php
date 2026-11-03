@@ -35,7 +35,7 @@ $currentPage =
 
 
             <img
-                src="../images/logodoanthanhnien.jpg"
+                src="../images/logodoanthanhnien.png"
                 alt="Logo Đoàn Thanh niên"
 
                 style="
@@ -61,7 +61,7 @@ $currentPage =
 
 
             <img
-                src="../images/logothanhnien.jpg"
+                src="../images/logothanhnien.png"
                 alt="Logo Thanh niên"
 
                 style="

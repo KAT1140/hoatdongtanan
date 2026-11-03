@@ -799,12 +799,12 @@ if (isset($_SESSION["user_id"])) {
         >
 
             <img
-                src="images/logodoanthanhnien.jpg"
+                src="images/logodoanthanhnien.png"
                 class="brand-logo"
                 alt="Logo Đoàn Thanh niên"
             >
                             <img
-                    src="images/logothanhnien.jpg"
+                    src="images/logothanhnien.png"
                     alt="Logo Đoàn Thanh niên"
             >
 

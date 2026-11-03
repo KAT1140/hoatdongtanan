@@ -1090,10 +1090,12 @@ foreach (
     <?php if ($current_activity): ?>
 
         <a
-            href="xuat-danh-sach.php?activity_id=<?= (int)$activity_id ?>"
+            href="export-activity-pdf.php?activity_id=<?= (int)$activity_id ?>"
             class="export-btn"
+            target="_blank"
+            rel="noopener"
         >
-            📥 Xuất danh sách
+            📄 Xuất PDF
         </a>
 
     <?php endif; ?>

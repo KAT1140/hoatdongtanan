@@ -1263,6 +1263,18 @@ $activities =
                                         <?php endif; ?>
 
 
+                                        <a
+                                            href="export-activity-pdf.php?activity_id=<?= (int)$activity["id"] ?>"
+                                            class="btn btn-view"
+                                            target="_blank"
+                                            rel="noopener"
+                                        >
+
+                                            📄 Xuất PDF
+
+                                        </a>
+
+
 
                                         <!-- =================================
                                              SỬA
